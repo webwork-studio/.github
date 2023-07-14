@@ -8,22 +8,30 @@ WebWork Studio est une équipe passionnée composée d'experts en design, en dé
 ## Comment ça marche ?
 Découvrez notre processus transparent en 4 étapes pour la conception et le développement de votre site web de luxe :
 
-**Analyse des besoins**: Nous comprenons vos objectifs, votre public cible et vos exigences afin de créer une vision claire de votre site web et de ses besoins.
-**Conception et maquettes**: Nous créons des maquettes graphiques personnalisées pour visualiser l'apparence et la structure de votre site.
-**Développement et intégration**: Nous transformons les maquettes en un site web fonctionnel, utilisant les dernières technologies pour une expérience utilisateur exceptionnelle.
-**Tests et déploiement**: Nous vérifions minutieusement chaque aspect du site pour garantir son bon fonctionnement et sa compatibilité avant son lancement réussi.
+1. **Analyse des besoins**: Nous comprenons vos objectifs, votre public cible et vos exigences afin de créer une vision claire de votre site web et de ses besoins.
+
+2. **Conception et maquettes**: Nous créons des maquettes graphiques personnalisées pour visualiser l'apparence et la structure de votre site.
+
+3. **Développement et intégration**: Nous transformons les maquettes en un site web fonctionnel, utilisant les dernières technologies pour une expérience utilisateur exceptionnelle.
+
+4. **Tests et déploiement**: Nous vérifions minutieusement chaque aspect du site pour garantir son bon fonctionnement et sa compatibilité avant son lancement réussi.
 
 ## Nos services
 Chez WebWork Studio, nous offrons une gamme complète de services de développement web pour répondre à tous vos besoins en matière de présence en ligne :
 
-**Conception de votre site sur mesure**: Nous créons des designs uniques et personnalisés qui reflètent l'identité de votre marque et captivent votre audience.
-**Développement front-end et back-end**: Nous mettons en œuvre experte les technologies les plus récentes pour développer un site web performant, sécurisé et évolutif.
-**Optimisation pour les moteurs de recherche**: Nous améliorons la visibilité de votre site sur les moteurs de recherche grâce à des techniques d'optimisation éprouvées.
-**Intégration de Google Analytics**: Nous vous offrons un suivi détaillé et une analyse approfondie du trafic de votre site web grâce à l'intégration de Google Analytics.
-**Compatibilité multiplateforme**: Nous adaptons votre site web pour offrir une expérience utilisateur optimale sur tous les appareils.
-**Maintenance et support technique**: Nous fournissons une assistance continue pendant un an pour répondre à vos besoins en cas de problèmes techniques ou de demandes d'assistance.
+- **Conception de votre site sur mesure**: Nous créons des designs uniques et personnalisés qui reflètent l'identité de votre marque et captivent votre audience.
 
-## Suivi du trafic
+- **Développement front-end et back-end**: Nous mettons en œuvre experte les technologies les plus récentes pour développer un site web performant, sécurisé et évolutif.
+
+- **Optimisation pour les moteurs de recherche**: Nous améliorons la visibilité de votre site sur les moteurs de recherche grâce à des techniques d'optimisation éprouvées.
+
+- **Intégration de Google Analytics**: Nous vous offrons un suivi détaillé et une analyse approfondie du trafic de votre site web grâce à l'intégration de Google Analytics.
+
+- **Compatibilité multiplateforme**: Nous adaptons votre site web pour offrir une expérience utilisateur optimale sur tous les appareils.
+
+- **Maintenance et support technique**: Nous fournissons une assistance continue pendant un an pour répondre à vos besoins en cas de problèmes techniques ou de demandes d'assistance.
+
+### Suivi du trafic
 Chez WebWork Studio, nous comprenons l'importance cruciale d'avoir une vision claire des performances de votre site. C'est pourquoi nous proposons l'intégration experte de Google Analytics à votre site web, vous offrant ainsi un aperçu détaillé de votre trafic en ligne.
 
 Grâce à notre expertise en développement web et à notre maîtrise des outils d'analyse, nous veillons à ce que chaque aspect de votre site soit correctement configuré pour le suivi. Notre équipe compétente s'occupe de l'installation et de la mise en place de Google Analytics, garantissant que vous disposez des informations essentielles pour optimiser votre présence en ligne.
@@ -35,9 +43,9 @@ Pour en savoir plus sur nos services et découvrir nos projets récents, visitez
 N'hésitez pas à nous contacter pour discuter de vos besoins en développement web et pour obtenir un devis personnalisé.
 
 ## Contactez-nous
-Pour toute demande d'information ou de devis, veuillez nous contacter à l'adresse suivante :
+Pour toute demande d'information ou de devis, n'hésitez pas à nous contacter:
 
-Email : contact@webworkstudio.fr
+- Email : contact@webworkstudio.fr
 
 Nous serions ravis de vous aider à réaliser votre vision en ligne et à créer un site web d'exception qui vous démarque de la concurrence.
 
